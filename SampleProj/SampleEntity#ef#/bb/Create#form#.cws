@@ -20,7 +20,7 @@
 	<FormComponents>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-18E6-A1EF-A519-0BE4640F40F7">
 			<DocumentID>00505601-18E6-A1EF-A519-0BE4640F00F7</DocumentID>
 			<Name>FormsFragment</Name>
@@ -47,6 +47,7 @@
 			<FullviewLayoutAssociation/>
 			<Image/>
 			<LocalizableLabel/>
+			<LocalizableRequiredError/>
 			<LocalizableTooltip/>
 			<ParentComponent/>
 			<PathRelationships/>
@@ -58,7 +59,7 @@
 		</FormComponent>
 		<FormComponent
 			type="com.cordys.entity.buildingblocks.form.FormComponent"
-			typeVersion="40826F30-D2C3-4AAE-AF90-98F74A6BCD48"
+			typeVersion="DF6DA7A6-8FB7-417A-8FCE-C5B615BC8308"
 			RuntimeDocumentID="00505601-18E6-A1EF-A519-0BE4640EC0F7">
 			<DocumentID>00505601-18E6-A1EF-A519-0BE4640E80F7</DocumentID>
 			<Name>FormPropertyComponentYV02RFVDAR2WQ1S2P9SETECBOXU564KE</Name>
@@ -85,6 +86,7 @@
 			<FullviewLayoutAssociation/>
 			<Image/>
 			<LocalizableLabel/>
+			<LocalizableRequiredError/>
 			<LocalizableTooltip/>
 			<ParentComponent>
 				<uri
